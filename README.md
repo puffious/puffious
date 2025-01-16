@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 i'm currently migrating databases<br>🎲 fun fact: '1'+'1'='11'</p>
+<p align="left">🗣️ shouting in the datacenter <br>🎲 fun fact: '1'+'1'='11'</p>
 
 ###
 
