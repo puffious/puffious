@@ -1,11 +1,3 @@
-<h1 align="left">hello👋</h1>
-
-###
-
-<p align="left">i am puff</p>
-
-###
-
 <h2 align="left">about me</h2>
 
 ###
